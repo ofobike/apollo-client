@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apollo-client" />
+        <module name="mybatis_apollo" />
+        <module name="nbcb-base" />
+        <module name="nbcb-common" />
+        <module name="nbcb-recruit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apollo-client" target="1.8" />
+      <module name="mybatis_apollo" target="1.8" />
+      <module name="nbcb-base" target="1.8" />
+      <module name="nbcb-common" target="1.8" />
+      <module name="nbcb-parent" target="1.8" />
+      <module name="nbcb-recruit" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+app:
+  # 应用ID(在Apollo服务端新增项目添加的应用ID)
+  id: test-app
+apollo:
+  # apollo-config-service地址
+  meta: http://192.168.6.134:8080
+

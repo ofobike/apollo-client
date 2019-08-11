@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apollo-client.iml" filepath="$PROJECT_DIR$/apollo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_apollo/mybatis_apollo.iml" filepath="$PROJECT_DIR$/../mybatis_apollo/mybatis_apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nbcb-parent/nbcb-base/nbcb-base.iml" filepath="$PROJECT_DIR$/../nbcb-parent/nbcb-base/nbcb-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nbcb-parent/nbcb-common/nbcb-common.iml" filepath="$PROJECT_DIR$/../nbcb-parent/nbcb-common/nbcb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nbcb-parent/nbcb-parent.iml" filepath="$PROJECT_DIR$/../nbcb-parent/nbcb-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nbcb-parent/nbcb-recruit/nbcb-recruit.iml" filepath="$PROJECT_DIR$/../nbcb-parent/nbcb-recruit/nbcb-recruit.iml" />
+    </modules>
+  </component>
+</project>
